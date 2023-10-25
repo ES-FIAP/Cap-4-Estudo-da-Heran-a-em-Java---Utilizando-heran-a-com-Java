@@ -1,4 +1,3 @@
-package Model;
 
 public class TesteProdutos {
     public static void main(String[] args) {
@@ -48,3 +47,4 @@ public class TesteProdutos {
         System.out.println("Fabricante: " + bebida.getFabricante());
     }
 }
+

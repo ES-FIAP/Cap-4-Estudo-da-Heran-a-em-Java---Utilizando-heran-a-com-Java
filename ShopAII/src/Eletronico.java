@@ -1,5 +1,3 @@
-package Model;
-
 public class Eletronico extends Produto{
 	private String modelo;
 	

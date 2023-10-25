@@ -1,5 +1,3 @@
-package Model;
-
 public class Alimenticio  extends Produto{
 	private String dataValidade;
 	private String ingredientes;

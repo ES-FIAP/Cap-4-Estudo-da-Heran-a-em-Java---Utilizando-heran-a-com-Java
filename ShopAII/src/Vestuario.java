@@ -1,5 +1,3 @@
-package Model;
-
 public class Vestuario extends Produto {
 	private String tamanho;
 	private String cor;
