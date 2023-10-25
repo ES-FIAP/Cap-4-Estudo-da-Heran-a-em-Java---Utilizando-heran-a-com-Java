@@ -1,4 +1,5 @@
 
+//Deu bom
 import java.util.Scanner;
 
 public class TesteProdutos {
@@ -90,7 +91,7 @@ public class TesteProdutos {
 
         Bebida bebida = new Bebida(nomeBebida, precoBebida, descricaoBebida, estoqueBebida, fabricanteBebida, dataValidadeBebida, ingredientesBebida, alcoolicaBebida, volumeBebida);
 
-        // Exibir os valores dos atributos de cada classe de produto
+    
         System.out.println("\nProduto Eletrônico:");
         System.out.println("Nome: " + eletronico.getNome());
         System.out.println("Preço: $" + eletronico.getPreco());
@@ -129,7 +130,6 @@ public class TesteProdutos {
         System.out.println("Estoque: " + bebida.getEstoque());
         System.out.println("Fabricante: " + bebida.getFabricante());
 
-        // Feche o scanner
         scanner.close();
     }
 }
